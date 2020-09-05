@@ -13,4 +13,4 @@ SEPIA:
 
 
 REFLECTED:
-![](yourname_reflected.jpg)
+![](yourname_reflect.jpg)
